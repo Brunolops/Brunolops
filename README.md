@@ -1,4 +1,5 @@
-## Oiii! Eu sou o Bruno Lopes
+## Oiii! Eu sou o Bruno Lopes, entusiasta em tecnologia!
+
 
 - 🧑‍💻Estudando HTML|CSS|JS <br>
 - 👨‍🎓 Graduando em ADS <br>
