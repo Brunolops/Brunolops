@@ -1,6 +1,6 @@
 ## Oiii! Eu sou o Bruno Lopes, entusiasta em tecnologia!
 
-💻 Estudante de Ciência da Computação na UFRJ
+💻 Estudante de Analíse e Desenvolvimento de Sistemas
 
 
 Áreas de interesse: Desenvolvimento Front-End.
@@ -10,7 +10,7 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
 
 
 
-<div align="center">
+<div align="flex-start">
   <a href="https://github.com/Brunolops">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoLops&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
@@ -29,5 +29,4 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
   <a href = "mailto:brunooliveira99874@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-oliveira-b97200128/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/NqujkQgB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
- <a href="https://api.whatsapp.com/send?phone=5577988594083&text=Seja%20bem-vindo%20ao%20meu%20wpp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a> 
+ <a href="https://api.whatsapp.com/send?phone=5577988594083&text=Seja%20bem-vindo%20ao%20meu%20wpp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
