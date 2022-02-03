@@ -1,9 +1,12 @@
 ## Oiii! Eu sou o Bruno Lopes, entusiasta em tecnologia!
 
+💻 Estudante de Ciência da Computação na UFRJ
 
-- 🧑‍💻Estudando HTML | CSS | JS <br>
-- 👨‍🎓 Graduando em ADS <br>
-- 🧑‍💼 A procura de um estagio
+
+Áreas de interesse: Desenvolvimento Front-End.
+Estudando atualmente: MySQL,ReactJS,JavaScript
+
+Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando no linkedin ou gmail.
 
 
 
