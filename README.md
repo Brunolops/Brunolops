@@ -4,7 +4,7 @@
 
 
 Áreas de interesse: Desenvolvimento Front-End.
-Estudando atualmente: MySQL,ReactJS,JavaScript
+Estudando atualmente: MySQL ,ReactJS ,JavaScript
 
 Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando no linkedin ou gmail.
 
